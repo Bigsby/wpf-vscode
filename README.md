@@ -17,3 +17,5 @@ The *special* things to take into account to run and debug a **WPF** project in 
 
 
 To test, just open this folder in **Visual Studio Code** and hit *F5*.
+
+![alt text](images/debuggin.PNG "")
