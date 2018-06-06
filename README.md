@@ -9,7 +9,7 @@ The *special* things to take into account to run and debug a **WPF** project in 
 
 - ## In *.vscode/tasks.json*:
   - *command* needs to point to *msbuild.exe*: *"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\MSBuild\\15.0\\Bin\\MSBuild.exe"*
-  > This is setup for **Visual Studio 2017** tools
+  > This is setup for **Visual Studio 2017 Professional** tools. Ajust if a different version is used.
 
 - ## In *.vscode/launch.json*:
   - Launch *type* is *clr*: *"type": "clr"*
